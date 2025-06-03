@@ -1,1 +1,3 @@
 # MiniSocialNetwork
+
+test merge
